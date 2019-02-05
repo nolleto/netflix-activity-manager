@@ -21,7 +21,7 @@ So, if you cancel or leave the input blank, the modal will open with our current
 
 When this process finished, a modal with a table will open so you can remove your activities.
 
-### But why create this script?
+### But why did I create this script?
 Well, I had a shared Netlfix's account and sometimes when I open my profile I see a lot of series and show in my activities that I didn't watch. This happens because another user just had to use my profile (why?!??!) and watched a lot of things (that I don't like) and then I start to see recommendations that I don't care and it's hard to find out what's series and shows I was watching the last time (*cry in Spanish*).
 So, I've created this script to help with my little _problem_
 
