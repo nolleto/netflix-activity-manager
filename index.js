@@ -8,7 +8,7 @@ const addActivityButton = () => {
   addCss('margin', '5px 10px 0 0')
   addCss('borderRadius', '5px')
 
-  button.textContent = 'Erase activities'
+  button.textContent = 'Manage activities'
   button.addEventListener('click', () => {
     const loadMore = prompt('Do you want to load more of your activity?\nIf so, how many times do you want we press to "Show More" bottom button?\n(Cancel or leace blank to open the modal withouts load more activity)')
     const number = getNumber(loadMore)
